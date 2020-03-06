@@ -2,6 +2,8 @@
 
 ** by Per Bothner
 
+
+
 This repository hosts [[https://srfi.schemers.org/srfi-118/][SRFI 118]]: Simple adjustable-size strings, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /final/ status.
