@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2015 Per Bothner <per@bothner.com>
+#
+# SPDX-License-Identifier: MIT
+
 * SRFI 118: Simple adjustable-size strings
 
 ** by Per Bothner
